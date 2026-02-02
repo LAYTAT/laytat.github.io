@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.64b027d9.chunk.css",
-    "main.js": "/static/js/main.39241142.chunk.js",
-    "main.js.map": "/static/js/main.39241142.chunk.js.map",
+    "main.js": "/static/js/main.4807584e.chunk.js",
+    "main.js.map": "/static/js/main.4807584e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3fdae03d.js",
     "runtime-main.js.map": "/static/js/runtime-main.3fdae03d.js.map",
-    "static/js/2.b2ba4ac6.chunk.js": "/static/js/2.b2ba4ac6.chunk.js",
-    "static/js/2.b2ba4ac6.chunk.js.map": "/static/js/2.b2ba4ac6.chunk.js.map",
+    "static/js/2.62e90379.chunk.js": "/static/js/2.62e90379.chunk.js",
+    "static/js/2.62e90379.chunk.js.map": "/static/js/2.62e90379.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4cae3aab63f7804885f63f86ec63164f.js": "/precache-manifest.4cae3aab63f7804885f63f86ec63164f.js",
+    "precache-manifest.1b4853ded58f79691ab34ff9135ab518.js": "/precache-manifest.1b4853ded58f79691ab34ff9135ab518.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.64b027d9.chunk.css.map": "/static/css/main.64b027d9.chunk.css.map",
-    "static/js/2.b2ba4ac6.chunk.js.LICENSE.txt": "/static/js/2.b2ba4ac6.chunk.js.LICENSE.txt",
+    "static/js/2.62e90379.chunk.js.LICENSE.txt": "/static/js/2.62e90379.chunk.js.LICENSE.txt",
     "static/media/AWS-AI-Practitioner.png": "/static/media/AWS-AI-Practitioner.a3211c1f.png",
     "static/media/AWS-Dev-Associate.png": "/static/media/AWS-Dev-Associate.51df0293.png",
     "static/media/AWS-Network-Spec.png": "/static/media/AWS-Network-Spec.7c4b97aa.png",
@@ -55,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3fdae03d.js",
-    "static/js/2.b2ba4ac6.chunk.js",
+    "static/js/2.62e90379.chunk.js",
     "static/css/main.64b027d9.chunk.css",
-    "static/js/main.39241142.chunk.js"
+    "static/js/main.4807584e.chunk.js"
   ]
 }
