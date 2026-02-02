@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9c12db4.chunk.css",
+    "main.css": "/static/css/main.d499d141.chunk.css",
     "main.js": "/static/js/main.7b2ca132.chunk.js",
     "main.js.map": "/static/js/main.7b2ca132.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3fdae03d.js",
@@ -8,9 +8,9 @@
     "static/js/2.62e90379.chunk.js": "/static/js/2.62e90379.chunk.js",
     "static/js/2.62e90379.chunk.js.map": "/static/js/2.62e90379.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.de931726650a35ce20908bd0c39cadd8.js": "/precache-manifest.de931726650a35ce20908bd0c39cadd8.js",
+    "precache-manifest.d59f6d29918135757f3221993ff445da.js": "/precache-manifest.d59f6d29918135757f3221993ff445da.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a9c12db4.chunk.css.map": "/static/css/main.a9c12db4.chunk.css.map",
+    "static/css/main.d499d141.chunk.css.map": "/static/css/main.d499d141.chunk.css.map",
     "static/js/2.62e90379.chunk.js.LICENSE.txt": "/static/js/2.62e90379.chunk.js.LICENSE.txt",
     "static/media/AWS-AI-Practitioner.png": "/static/media/AWS-AI-Practitioner.a3211c1f.png",
     "static/media/AWS-Dev-Associate.png": "/static/media/AWS-Dev-Associate.51df0293.png",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.3fdae03d.js",
     "static/js/2.62e90379.chunk.js",
-    "static/css/main.a9c12db4.chunk.css",
+    "static/css/main.d499d141.chunk.css",
     "static/js/main.7b2ca132.chunk.js"
   ]
 }
