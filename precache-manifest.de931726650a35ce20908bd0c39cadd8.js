@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8a7f1d091875b176e03c71c16fb21fb",
+    "revision": "8ab1a66e52f9dc0185080cd946e73064",
     "url": "/index.html"
   },
   {
-    "revision": "837db90559576499c458",
-    "url": "/static/css/main.7ee3dc9e.chunk.css"
+    "revision": "3e28a586f90413b8fb79",
+    "url": "/static/css/main.a9c12db4.chunk.css"
   },
   {
-    "revision": "3631eed8761c38dd912b",
-    "url": "/static/js/2.75c0e813.chunk.js"
+    "revision": "8e4e1c2f6fedd93e3848",
+    "url": "/static/js/2.62e90379.chunk.js"
   },
   {
     "revision": "c21d579849576bf6a47550572ff70f62",
-    "url": "/static/js/2.75c0e813.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.62e90379.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "837db90559576499c458",
-    "url": "/static/js/main.99684109.chunk.js"
+    "revision": "3e28a586f90413b8fb79",
+    "url": "/static/js/main.7b2ca132.chunk.js"
   },
   {
     "revision": "8b906cca1f2a652d20a8",
     "url": "/static/js/runtime-main.3fdae03d.js"
+  },
+  {
+    "revision": "a3211c1fd5a4d472921a0ee81b9bfbff",
+    "url": "/static/media/AWS-AI-Practitioner.a3211c1f.png"
   },
   {
     "revision": "51df029381ce2af2ae7fc77529c10785",
@@ -38,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "33991edbd1eb107a5076adbfc4a32e91",
     "url": "/static/media/AWS-SolArchitect-Pro.33991edb.png"
+  },
+  {
+    "revision": "ca86a922a89275da1dd3be7f9044fe92",
+    "url": "/static/media/AWS-SysOps-Associate.ca86a922.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",

@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ee3dc9e.chunk.css",
-    "main.js": "/static/js/main.99684109.chunk.js",
-    "main.js.map": "/static/js/main.99684109.chunk.js.map",
+    "main.css": "/static/css/main.a9c12db4.chunk.css",
+    "main.js": "/static/js/main.7b2ca132.chunk.js",
+    "main.js.map": "/static/js/main.7b2ca132.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3fdae03d.js",
     "runtime-main.js.map": "/static/js/runtime-main.3fdae03d.js.map",
-    "static/js/2.75c0e813.chunk.js": "/static/js/2.75c0e813.chunk.js",
-    "static/js/2.75c0e813.chunk.js.map": "/static/js/2.75c0e813.chunk.js.map",
+    "static/js/2.62e90379.chunk.js": "/static/js/2.62e90379.chunk.js",
+    "static/js/2.62e90379.chunk.js.map": "/static/js/2.62e90379.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b76b30a7a8d38041fb34f28e05f890ee.js": "/precache-manifest.b76b30a7a8d38041fb34f28e05f890ee.js",
+    "precache-manifest.de931726650a35ce20908bd0c39cadd8.js": "/precache-manifest.de931726650a35ce20908bd0c39cadd8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7ee3dc9e.chunk.css.map": "/static/css/main.7ee3dc9e.chunk.css.map",
-    "static/js/2.75c0e813.chunk.js.LICENSE.txt": "/static/js/2.75c0e813.chunk.js.LICENSE.txt",
+    "static/css/main.a9c12db4.chunk.css.map": "/static/css/main.a9c12db4.chunk.css.map",
+    "static/js/2.62e90379.chunk.js.LICENSE.txt": "/static/js/2.62e90379.chunk.js.LICENSE.txt",
+    "static/media/AWS-AI-Practitioner.png": "/static/media/AWS-AI-Practitioner.a3211c1f.png",
     "static/media/AWS-Dev-Associate.png": "/static/media/AWS-Dev-Associate.51df0293.png",
     "static/media/AWS-Network-Spec.png": "/static/media/AWS-Network-Spec.7c4b97aa.png",
     "static/media/AWS-SolArchitect-Associate.png": "/static/media/AWS-SolArchitect-Associate.7aa06c03.png",
     "static/media/AWS-SolArchitect-Pro.png": "/static/media/AWS-SolArchitect-Pro.33991edb.png",
+    "static/media/AWS-SysOps-Associate.png": "/static/media/AWS-SysOps-Associate.ca86a922.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ECUST_LOGO.png": "/static/media/ECUST_LOGO.405e11b8.png",
     "static/media/UF_LOGO.png": "/static/media/UF_LOGO.2e433749.png",
@@ -53,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3fdae03d.js",
-    "static/js/2.75c0e813.chunk.js",
-    "static/css/main.7ee3dc9e.chunk.css",
-    "static/js/main.99684109.chunk.js"
+    "static/js/2.62e90379.chunk.js",
+    "static/css/main.a9c12db4.chunk.css",
+    "static/js/main.7b2ca132.chunk.js"
   ]
 }
